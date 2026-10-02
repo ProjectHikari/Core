@@ -1,3 +1,3 @@
 package core
 
-const Version = "Rc1"
+const Version = "b1-Rc1"
